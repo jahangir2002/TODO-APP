@@ -3,6 +3,8 @@ To install virtualenv, you can use the command
 <a href="https://pypi.org/project/virtualenv/"> virtual environment Documentation</a>
 <h2>pip install virtualenv</h2>
 
+For active virtual enviroment :
+<h4>.\env\Scripts\activate.ps1</h4>
 To create a virtualenv, you can use the following command:
 <p>Virtualenv is a tool to create isolated Python environments.</p>
 <h2>virtualenv env </h2>
